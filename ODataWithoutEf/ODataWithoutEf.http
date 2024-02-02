@@ -1,0 +1,6 @@
+@ODataWithoutEf_HostAddress = http://localhost:5073
+
+GET {{ODataWithoutEf_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
